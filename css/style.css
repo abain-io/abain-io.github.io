@@ -1,15 +1,16 @@
 
 body {
   color: #878787;
-  margin: 10;
+  background-color: orange;
+  margin: 0;
 }
 
 .main-header {
-  background-color: firebrick;
+  background-color: orange;
 }
 
 h1 {  
-  font-size: 90px;
+  font-size: 72px;
   color: white;
 }
 
