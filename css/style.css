@@ -1,14 +1,12 @@
 
+
 body {
   background-color: orange;
-  margin: 0;
   font-family: Helvetica, sans-serif
 }
 
 .main-header {
   background-color: orange;
-  margin: 0;
-  padding: 0;
 }
 
 h1 {  
@@ -26,42 +24,21 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    text align: center;
+    text-align: center;
   }
   
   footer .copyright {
-    top: -8px;
-    font-size: .75em;
+    top: -1px;
+    font-size: .80em;
     color: black;
+    text align: center;
   }
   
   .clearfix {
     clear: both;
   }
 
-  /* Styles for larger screens */
-@media screen and (min-width: 720px) {
-
-  .flex {
-      display: -ms-flexbox;      /* TWEENER - IE 10 */
-      display: flex;
-      max-width: 1200px;
-      -ms-flex-pack: distribute;
-      justify-content: space-around;
-      margin: 0 auto;
-  }
-
-  header {
-    min-height: 470px;
-  }
-
-  footer {
-    font-size: 1.3em;
-    max-width: 1200px;
-    margin: 40px auto;
-  }
-
-}
+  
 
 
 
