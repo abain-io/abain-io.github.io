@@ -1,7 +1,7 @@
 
 body {
   color: #878787;
-  margin: 0;
+  margin: 10;
 }
 
 .main-header {
@@ -11,4 +11,9 @@ body {
 h1 {  
   font-size: 90px;
   color: white;
+}
+
+p {
+ font-size: 20px;
+ color: white;
 }
