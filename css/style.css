@@ -6,7 +6,7 @@ body {
 }
 
 .main-header {
-  background-color: firebrick;
+  background-color: orange;
 }
 
 h1 {  
@@ -15,11 +15,9 @@ h1 {
 }
 
 p {
- font-size: 25px;
+ font-size: 40px;
  color: black;
 }
 
-.primary-content {
-    text-align: center;
-  }
+
   
