@@ -28,8 +28,8 @@ footer {
   }
   
   footer .copyright {
-    top: -1px;
-    font-size: .80em;
+    top: 0px;
+    font-size: .78em;
     color: black;
     text align: center;
   }
