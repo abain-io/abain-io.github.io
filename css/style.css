@@ -1,0 +1,14 @@
+
+body {
+  color: #878787;
+  margin: 0;
+}
+
+.main-header {
+  background-color: firebrick;
+}
+
+h1 {  
+  font-size: 90px;
+  color: white;
+}
