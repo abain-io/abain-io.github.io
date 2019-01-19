@@ -10,6 +10,9 @@ body {
 
 .main-header {
   background-color: orange;
+  margin-top: 0;
+  padding-top: 0;
+
 }
 
 h1 {  
