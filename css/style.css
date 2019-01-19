@@ -3,6 +3,7 @@
 body {
   background-color: orange;
   font-family: Helvetica, sans-serif
+  
 }
 
 .main-header {
@@ -10,13 +11,18 @@ body {
 }
 
 h1 {  
-  font-size: 90px;
-  color: white;
+  font-size: 85px;
+  color: lightslategray;
 }
 
 p {
  font-size: 40px;
- color: black;
+ color: lightslategray;
+}
+
+.profile-image {
+    margin-left: 0;
+  
 }
 
 footer {
@@ -30,7 +36,7 @@ footer {
   footer .copyright {
     top: 0px;
     font-size: .78em;
-    color: black;
+    color: white;
     text align: center;
   }
   
