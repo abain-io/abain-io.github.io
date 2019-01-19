@@ -3,13 +3,12 @@
 }
 
 body {
-  background-color: orange;
+  background-color: cadetblue;
   font-family: Helvetica, sans-serif
   
 }
 
 .main-header {
-  background-color: orange;
   margin-top: 0;
   padding-top: 0;
 
@@ -17,12 +16,12 @@ body {
 
 h1 {  
   font-size: 85px;
-  color: lightslategrey;
+  color: white;
 }
 
 p {
  font-size: 40px;
- color: lightslategray;
+ color: white;
 }
 
 .profile-image {
