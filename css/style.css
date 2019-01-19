@@ -12,12 +12,12 @@ body {
 
 h1 {  
   font-size: 85px;
-  color: lightslategray;
+  color: gray;
 }
 
 p {
  font-size: 40px;
- color: lightslategray;
+ color: gray;
 }
 
 .profile-image {
