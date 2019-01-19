@@ -6,6 +6,7 @@ body {
   background-color: cadetblue;
   font-family: 'Lato', sans-serif;
   margin-left: 0px;
+  margin-right: 0px;
 }
 
 .main-header {
@@ -25,10 +26,11 @@ p {
  margin-left: 10px;
 }
 
-.profile-image {
+.image {
     width: 100%;
     padding: 0px 0px 0px 0px;
     margin-left: 0;
+    margin-right: 0;
 }
 
 footer {
