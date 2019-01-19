@@ -5,11 +5,12 @@
 body {
   background-color: cadetblue;
   font-family: 'Lato', sans-serif;
+  margin-left: 0px;
 }
 
 .main-header {
   margin-top: 0;
-  padding-top: 0;
+  margin-left: 5px;
 
 }
 
@@ -19,13 +20,15 @@ h1 {
 }
 
 p {
- font-size: 40px;
+ font-size: 39px;
  color: white;
+ margin-left: 10px;
 }
 
 .profile-image {
     width: 100%;
     padding: 0px 0px 0px 0px;
+    margin-left: 0;
 }
 
 footer {
