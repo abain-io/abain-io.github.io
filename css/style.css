@@ -1,12 +1,18 @@
-
+* {
+  box-sizing: border-box;
+}
 
 body {
-  background-color: orange;
-  font-family: Helvetica, sans-serif
+  background-color: cadetblue;
+  font-family: 'Lato', sans-serif;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .main-header {
-  background-color: orange;
+  margin-top: 0;
+  margin-left: 5px;
+
 }
 
 h1 {  
@@ -15,8 +21,16 @@ h1 {
 }
 
 p {
- font-size: 40px;
- color: black;
+ font-size: 39px;
+ color: white;
+ margin-left: 10px;
+}
+
+.image {
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 footer {
@@ -30,7 +44,7 @@ footer {
   footer .copyright {
     top: 0px;
     font-size: .78em;
-    color: black;
+    color: white;
     text align: center;
   }
   
