@@ -26,6 +26,15 @@ p {
  margin-left: 10px;
 }
 
+.email {
+    color: #495E88;
+}
+
+.social {
+    color: #495E88;
+  /* color: #EDBD3E; */
+}
+
 .image {
     width: 100%;
     padding: 0px 0px 0px 0px;
