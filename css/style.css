@@ -32,7 +32,7 @@ p {
 
 .social {
     color: #495E88;
-  /* color: #EDBD3E; */
+  /* also a nice color: #EDBD3E; */
 }
 
 .image {
@@ -52,7 +52,7 @@ footer {
   
   footer .copyright {
     top: 0px;
-    font-size: .80em;
+    font-size: .83em;
     color: white;
     text align: center;
   }
