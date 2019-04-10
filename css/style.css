@@ -26,8 +26,12 @@ p {
  margin-left: 10px;
 }
 
+.main {
+  color: whitesmoke;
+}
+
 .email {
-    color: slategrey;
+    color: #FA6121;
 }
 
 .social {
