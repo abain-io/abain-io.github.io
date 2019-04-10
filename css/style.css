@@ -27,11 +27,12 @@ p {
 }
 
 .main {
-  color: whitesmoke;
+  color: #028482;
 }
 
 .email {
-    color: #FA6121;
+    color: salmon;
+     /* also a nice color #FA6121 */
 }
 
 .social {
