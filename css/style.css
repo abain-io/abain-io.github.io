@@ -53,8 +53,8 @@ p {
 }
 
 .image-cropper {
-  width: 110px;
-  height: 110px;
+  width: 150px;
+  height: 150px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
