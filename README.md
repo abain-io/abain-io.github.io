@@ -1,2 +1,2 @@
-# Stay Tuned! I will be using GitHub Pages to add projects to my portfolio. 
+# Coming Soon! I will be using GitHub Pages to add more projects to my portfolio. 
 
