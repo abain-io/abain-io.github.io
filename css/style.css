@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: lightslategray;
+  background-color: #001f3f;
   font-family: 'Lato', sans-serif;
   margin-left: 0px;
   margin-right: 0px;
@@ -27,7 +27,7 @@ p {
 }
 
 .main {
-  color: greenyellow;
+  color: #0074D9;
 }
 
 .email {
